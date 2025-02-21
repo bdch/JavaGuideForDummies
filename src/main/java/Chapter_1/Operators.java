@@ -40,6 +40,27 @@ class Operators {
 
     int f = --number2; // This would return 4.
 
+    // Now, let's look at the logical operators: &&, ||, ==, and !.
 
+    // The '&&' operator is the logical AND operator.
+    // It returns true if 'both' operands are true.
+    // E.g. true && true = true.
+    // E.g. true && false = false.
+    // It's often used in if statements.
+
+    // The '||' operator is the logical OR operator.
+    // It returns true if 'either' of the operands is true.
+    // E.g. true || false = true.
+    // E.g. false || false = false.
+
+    // The '==' operator is the equality operator.
+    // It returns true if the operands are equal.
+    // E.g. 5 == 5 = true.
+    // E.g. 5 == 6 = false.
+
+    // The '!' operator is the logical NOT operator.
+    // It returns the opposite of the operand.
+    // E.g. !true = false.
+    // E.g. !false = true.
 
  }

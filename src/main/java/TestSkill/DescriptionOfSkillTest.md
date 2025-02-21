@@ -1,6 +1,8 @@
 # Test Skill
 
-This section is to test your current skills. The range is from 1 to 5, with
+This section is to test your current skills. The number of the chapters, do are to be mistaken difficulty of the levels. They do not 
+correspond to each other.
+The range is from 1 to 5, with
 
 [Level_1](Level_1.java)  being the easiest. You should be able to do the following:
 

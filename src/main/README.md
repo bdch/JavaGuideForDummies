@@ -12,4 +12,7 @@ begin with the ``TestSkill``-package. It contains a total of 5 exercise to deter
 ## Chapter 1
 
 [Click me](java/Chapter_1/DescriptionOfChapter_1.md)
-*
+
+## Chapter 2
+
+[Click me](java/Chapter_2/DescriptionOfChapter_2.md)
