@@ -2,4 +2,7 @@
 
 ## Table of Contents
 
-[Classes and Object](ClassAndObject.java)
+* [Classes and Objects](ClassAndObject.java)
+* [Inheritance](Inheritance.java)
+* [Access Modifiers](AccessModifiers.java)
+* [Interfaces](Interfaces.java)
