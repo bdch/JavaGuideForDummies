@@ -1,4 +1,4 @@
-package Solutions.Levels;
+package Solution.Levels;
 
 public class Level_3 {
 
