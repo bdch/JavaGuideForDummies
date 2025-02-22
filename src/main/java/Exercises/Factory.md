@@ -1,9 +1,9 @@
 Difficulty: 5/5
 
 
-Factory Exercise
+# Factory Exercise
 
-Your are an intern at an office equipment company. The boss told you to digitalize all of your company's warehouses, factory's and HQ.
+You are an intern at an office equipment company. The boss told you to digitalize all of your company's warehouses, factory's and HQ.
 The company currently has the following buildings:
 
 - Warehouse, storing all the products
@@ -14,7 +14,7 @@ The products are produced in the factory, stored in the warehouse and then shipp
 
 You are provided with a toplevel interface 'Building' and a class 'Product'. You are to implement the following classes:
 
-- Warehouse558
+- Warehouse
 - Factory
 - HQ
 - Pencil and Ruler
