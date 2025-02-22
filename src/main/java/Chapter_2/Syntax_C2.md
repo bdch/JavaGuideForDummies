@@ -1,7 +1,7 @@
 # Syntax - Chapter 2
 
 
-In chapter 2 we learned a lot of new thinks and understanding these things is easier than using them. 
+In chapter 2 we learned a lot of new things and understanding these things is easier than using them. 
 
 So to make the process of using these statements and structures by yourself easier, here is a list of their syntax.
 ### if-Statements
