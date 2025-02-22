@@ -1,7 +1,7 @@
 # Test Skill
 
-This section is to test your current skills. The number of the chapters, do are to be mistaken difficulty of the levels. They do not 
-correspond to each other.
+This section is to test your current skills. The numbers of the chapters, do not necessarily 
+correspond to this.
 The range is from 1 to 5, with
 
 [Level_1](Level_1.java)  being the easiest. You should be able to do the following:
@@ -46,6 +46,7 @@ import java.util.Scanner;
 [Level_5]() being the hardest. You should be able to do the following:
 * Know everything from the previous levels.
 * How to model code.
+* Exception handling.
 
 
 I will provide the solutions to each chapter and code example and explain it. 

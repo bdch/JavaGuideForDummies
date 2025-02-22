@@ -24,5 +24,13 @@ begin with the ``TestSkill``-package. It contains a total of 5 exercise to deter
 
 [Click me](src/main/java/Chapter_2/DescriptionOfChapter_2.md)
 
+Exercises:
+
+* [Arrays](src/main/java/Exercises/ArrayExercise.java)
+* [Two Dimensional Arrays](src/main/java/Exercises/TwoDimensionalArray.java)
+
 ## Chapter 3
-[Click me](src/main/java/Chapter_3/DescriptionOfChapter_3.md)
+[got to Chapter 3](src/main/java/Chapter_3/DescriptionOfChapter_3.md)
+
+Here are the links to Exercises:
+* [Inheritance](src/main/java/Exercises/Factory.md)
