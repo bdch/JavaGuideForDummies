@@ -36,9 +36,28 @@ class Operators {
     int number2 = 5;
     int e = number2 - 1; // This would return 4.
 
+    //Similarly let's look at this example:
+
+    int number3 = 5;
+    // System.out.println(number3); // This would return 5.
+    int foo = number3--; // This would return 5, because it's post-decrement.
+    // System.out.println(number3); // This would also return 5.
+
+    //Similarly let's look at this example:
+    int somenum = 3;
+    // System.out.println(somenum); // This would return 3.
+    int bar = --somenum; // This would return 2, because it's pre-decrement.
+    // System.out.println(somenum); // This would return 2.
+
     //or
 
     int f = --number2; // This would return 4.
+
+    // There are also assignment operator, like: +=, -=, *=, /=, and %=.
+
+    // The '+=' operator is the addition assignment operator.
+    // It adds the right operand to the left operand and assigns the result to the left operand.
+    // E.g. x += 5; is the same as x = x + 5.
 
     // Now, let's look at the logical operators: &&, ||, ==, and !.
 
@@ -62,5 +81,6 @@ class Operators {
     // It returns the opposite of the operand.
     // E.g. !true = false.
     // E.g. !false = true.
+
 
  }
